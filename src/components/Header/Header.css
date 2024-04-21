@@ -1,0 +1,21 @@
+.header-container{
+    padding: 2rem 1rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: sticky;
+    border-bottom: 2px solid black;
+}
+
+.header-logo{
+
+}
+
+.header-links{
+
+}
+
+a{
+    text-decoration: none;
+    margin: 0 0.5rem;
+}
